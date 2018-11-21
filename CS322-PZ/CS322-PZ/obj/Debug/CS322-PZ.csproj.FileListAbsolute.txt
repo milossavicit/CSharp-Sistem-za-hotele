@@ -1,0 +1,17 @@
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\bin\Debug\App_Data\Baza.mdf
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\bin\Debug\App_Data\Baza_log.ldf
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\bin\Debug\CS322-PZ.exe.config
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\bin\Debug\CS322-PZ.exe
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\bin\Debug\CS322-PZ.pdb
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\obj\Debug\CS322-PZ.csprojResolveAssemblyReference.cache
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Gosti.resources
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Login.resources
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Pocetna.resources
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Properties.Resources.resources
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Rezervacija.resources
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Sobe.resources
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Transakcije.resources
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\obj\Debug\CS322-PZ.csproj.GenerateResource.Cache
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\obj\Debug\CS322-PZ.csproj.CoreCompileInputs.cache
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\obj\Debug\CS322-PZ.exe
+C:\Users\mrdatacable\Desktop\Projekti\CS322-PZ\CS322-PZ\obj\Debug\CS322-PZ.pdb
